@@ -9,6 +9,10 @@ onnxruntime.dll
 These files should be placed in the C:/Users/your_user_folder/.config/oneocr folder.
 ____________________________________________________________________
 
+Pre-requisites:
+pip install pymupdf oneocr reportlab Pillow
+____________________________________________________________________
+
 for usage type:
 python scr.py --help
 ____________________________________________________________________
